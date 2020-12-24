@@ -22,7 +22,7 @@
 
 3.1. Operatorul pippe
 
-3.2. Fincții R
+3.2. Funcții R
 
 3.3. Vectori R
 
