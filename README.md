@@ -1,6 +1,6 @@
-## Curs Știința Datelor semestrul de iarnă 2021
+#Curs Știința Datelor semestrul de iarnă 2021
 
-# Modulul I. Explorarea Datelor
+## Modulul I. Explorarea Datelor
 
 1.1. Vizualizarea datelor
 
@@ -8,7 +8,7 @@
 
 1.3. Analiza Exploratoare a Datelor (EDA)
 
-# Modulul II. Procesarea Datelor
+## Modulul II. Procesarea Datelor
 
 2.1. Importul datelor. Date tibbles
 
@@ -18,7 +18,7 @@
 
 2.4. Date de tip șiruri de caractere, factori, dată-timp
 
-# Modulul III. Programarea R
+## Modulul III. Programarea R
 
 3.1. Operatorul pippe
 
@@ -28,12 +28,12 @@
 
 3.4. Iterații R
 
-# Modulul IV. Crearea modelelor
+## Modulul IV. Crearea modelelor
 
 4.1. Bazele modelelor
 
 4.2. Construirea modelelor
 
-# Modulul V. Comunicarea
+## Modulul V. Comunicarea
 
 5.1. R. Markdown
