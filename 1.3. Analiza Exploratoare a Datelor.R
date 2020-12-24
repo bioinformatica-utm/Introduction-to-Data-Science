@@ -169,7 +169,7 @@ diamonds2 <- diamonds %>%
 ggplot(data = diamonds2) +
   geom_point(mapping = aes(x = carat, y = resid))
 
-# exploram ceea ce a ramas
+# exploram ceea ce a ramas - rezuduurile
 ggplot(data = diamonds2) +
   geom_boxplot(mapping = aes(x = cut, y = resid))
 
