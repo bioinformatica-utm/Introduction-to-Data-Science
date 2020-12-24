@@ -1,4 +1,4 @@
-#Curs Știința Datelor semestrul de iarnă 2021
+# Curs Știința Datelor semestrul de iarnă 2021
 
 ## Modulul I. Explorarea Datelor
 
